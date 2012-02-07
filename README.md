@@ -14,7 +14,7 @@ Running
 * Otherwise you can run it with some other web server. How you do this
   will vary. (I currently run it with gunicorn)
 
-Useing
+Using
 ------
 If you hit the webserver you'll get a simple (terrible looking) form
 that contains a name and text field. This is just for testing
